@@ -241,5 +241,5 @@ Projetos, e Links
 - Este `Currículo`_: `Repositório`_ (atualizada em 16 de junho de 2013)
 
 .. _`github`: https://github.com/caetanus
-.. _`Currículo`: https://github.com/caetanus/resume/resume-pt_br.rst
+.. _`Currículo`: https://github.com/caetanus/resume/blob/master/resume-pt_br.rst
 .. _`Repositório`: https://github.com/caetanus/resume/
