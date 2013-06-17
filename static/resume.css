@@ -1,0 +1,79 @@
+/**
+ * :Author: Rafael G. Martins
+ * :Contact: rafael@rafaelmartins.eng.br
+ * :Copyright: This stylesheet has been placed in the public domain.
+ *
+ * Stylesheet for use with Docutils to build the HTML version of my
+ * resume.
+ *
+ */
+
+/*@font-face {
+	font-family: 'Droid Sans';
+	font-style: normal;
+	font-weight: bold;
+	src: url('static/fonts/DroidSans-Bold.ttf');
+}
+
+@font-face {
+	font-family: 'Droid Sans';
+	font-style: normal;
+	font-weight: normal;
+	src: url('static/fonts/DroidSans.ttf');
+}*/
+
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+
+body {
+	font-family: "Droid Sans", sans-serif;
+	font-size: 17px;
+	color: #000; 
+}
+
+h2 {
+	margin-top: 50px;
+}
+
+h3 {
+	margin-top: 30px;
+}
+
+a {
+	color: #036;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+table.docinfo, table.docinfo td, table.docinfo tr {
+	border: 0;
+}
+
+table.docinfo {
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+
+table.docinfo th.docinfo-name {
+	text-align: right;
+}
+
+table.docinfo td.field-body {
+	text-align: left;
+}
+
+div.document {
+	width: 80%;
+	margin: 0 auto;
+}
+
+div.footer {
+	text-align: center;
+}
+
+hr {
+	margin-top: 50px;
+}

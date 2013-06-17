@@ -1,0 +1,33 @@
+fontsAlias:
+    stdFont: DroidSans
+    stdBold: DroidSans-Bold
+    stdSans: DroidSans
+    stdSansBold: DroidSans-Bold
+
+styles:
+    normal:
+        fontSize: 80%
+    title:
+        spaceBefore: 0
+        spaceAfter:  5 
+    heading1:
+        parent: heading
+        fontName: stdBold
+        fontSize: 140%
+        spaceBefore: 10
+    heading2:
+        parent: heading
+        fontName: stdBold
+        fontSize: 100%
+        spaceBefore: 10
+        spaceAfter: 4
+    heading3:
+        parent: heading
+        fontName: stdBold
+        fontSize: 80%
+        spaceBefore: 8
+        spaceAfter: 4
+    field-list:
+        colWidths: [15%,35%]
+    bullet-list:
+        spaceAfter: 10
