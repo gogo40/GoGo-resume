@@ -55,13 +55,10 @@ Com o time GoGo40, consegui chegar a 3 finais nacionais seguidas da maratona de 
 Idiomas
 -------
 - Português (*Idioma nativo*): compreende bem, fala bem, lê bem, escreve bem
-- Inglês: compreende razoavelmente, fala razoavelmente, lê bem, escreve razoavelmente
+- Inglês: compreende pouco, fala pouco, lê bem, escreve razoavelmente
 
 Habilidades
 -----------
-Eletrônica
-~~~~~~~~~~
-- Desenvolvimento de circuitos eletrônicos
 
 Desenvolvimento de Software
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
