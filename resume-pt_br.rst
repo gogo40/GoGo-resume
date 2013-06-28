@@ -39,7 +39,7 @@ O sistema foi desenvolvido em C++ e possui uma interface gráfica desenvolvida e
 Implementação do suporte a paralelismo na Linguagem Clever e outras características da linguagem
 _________________________________________________________________________________________________
 
-Projetou e desenvolveu o modelo de paralelismo da linguagem Clever. Além disso, participou do aprimoramento de diversas características da linguagem
+Projetou e desenvolveu o modelo de paralelismo da linguagem Clever. Além disso, participou do aprimoramento de diversas características da linguagem.
 
 
 
