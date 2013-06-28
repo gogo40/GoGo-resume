@@ -18,7 +18,7 @@ Sou formado em Engenharia da Computação pela UFPA (Universidade Federal do Par
 
 Tenho 7 anos de experiência com projeto e desenvolvimento de interfaces gráficas em QT, programação distribuída em C++ e Python, projeto de algoritmos e desenvolvimento de compiladores.
 
-O desafio me motiva, por isso constantemente participo de projetos *open-source* e de competições *online* como o TopCoder, HackerRank.
+O desafio me motiva, por isso constantemente participo de projetos *open-source* e de competições *online* como o TopCoder e HackerRank.
 
 _______
 
@@ -31,9 +31,9 @@ Algumas experiências relevantes
 Sistema de simulação *meshless* para propagação de ondas eletro-magnéticas
 _____________________________________________________________________________
 
-Durante minha graduação e mestrado, trabalhei com simuladores de propagação eletro-magnética -utilizando uma discretização das equações de Maxwell-. Para a defesa de meu mestrado, tive de implmentar um simulador estado da arte para simulações *meshless*, isto é, um simulador que não exige que usuário forneça a topologia da estrutura que deseja simular.
+Durante minha graduação e mestrado, trabalhei com simuladores de propagação eletro-magnética -utilizando uma discretização das equações de Maxwell-. Para a defesa de meu mestrado, tive de implementar um simulador estado da arte para simulações *meshless*, isto é, um simulador que não exige que usuário forneça a topologia da estrutura que deseja simular.
 
-O sistema foi desenvolvido em C++ e possui uma interface gráfica desenvolvida em QT4.
+O sistema foi desenvolvido em C++ e possui uma interface gráfica desenvolvida em QT4. Além disso, este trabalho rendeu dois artigos publicados em periódicos.
 
 
 Implementação do suporte a paralelismo na Linguagem Clever e outras características da linguagem
