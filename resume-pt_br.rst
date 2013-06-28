@@ -72,7 +72,7 @@ Desenvolvimento de Software
 - Programação em: Python, C, C++, Javascript, PHP, Lua, etc.
 - Ferramentas: Git, QMake, CMake, MySQL, etc.
 - Plataformas: Linux (Debian, Ubuntu),  Windows (98, 2000, XP, 7).
-- Bibliotecas: Qt, Readline, WinAPI, Zlib, GSL, etc.
+- Bibliotecas: Qt, Readline, Zlib, GSL, etc.
 - Conhecimento médio na técnica de desenvolvimento de simuladores físicos
 
 Maiores Influcências
