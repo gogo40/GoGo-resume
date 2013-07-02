@@ -106,7 +106,7 @@ Eventos e premiações
 ~~~~~~~~~~~~~~~~~~~~
 
 
-Finalista nacional da maratona de programação ACM ICPC nos anos de 2008, 2009, 2010 
+Finalista nacional da maratona de programação ACM ICPC nos anos de 2008, 2009 e 2010 
 ____________________________________________________________________________________
   Com o time GoGo40, consegui chegar a 3 finais nacionais seguidas da maratona de programação. Durante esse período, eu pude estabelecer contatos com programadores brilhantes e adquiri fluência tanto no desenvolvimento de algoritmo quanto na utilização eficiente de linguagens de programação.
 
