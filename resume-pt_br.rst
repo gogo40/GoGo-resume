@@ -38,57 +38,57 @@ Arquiteto de Software, XM software, *2012* - *2013*
 
 GeHos - Desenvolvimento de um sistema de gestão hospitalar
 ___________________________________________________________
-Desenvolvo e mantenho para o cliente Fernando Marques Consultoria um sistema de gestão hospitalar. Este sistema permite agendamento de consultas em diversas unidades, geração de prontuários, controle da utilização de convênios e planos, entre outras funcionalidades.
+  Desenvolvo e mantenho para o cliente Fernando Marques Consultoria um sistema de gestão hospitalar. Este sistema permite agendamento de consultas em diversas unidades, geração de prontuários, controle da utilização de convênios e planos, entre outras funcionalidades.
 
-O sistema foi desenvolvido em PHP e Javascript. 
+  O sistema foi desenvolvido em PHP e Javascript. 
 
 
 X-Manager - um projeto *start-up*
 __________________________________
-No projeto X-Manager (`Jogo de negócios configurável X-Manager`_), eu desenvolvi um jogo de negócios configurável e uma rede social profissional. O objetivo desse projeto é fornecer um ambiente *gamificado* para treinamento em gestão de empresas.
+  No projeto X-Manager (`Jogo de negócios configurável X-Manager`_), eu desenvolvi um jogo de negócios configurável e uma rede social profissional. O objetivo desse projeto é fornecer um ambiente *gamificado* para treinamento em gestão de empresas.
 
-O sistema foi escrito em PHP e Javascript. A plataforma é totalmente configurável, reduzindo o custo para a criação de novos ambientes de simulação.
+  O sistema foi escrito em PHP e Javascript. A plataforma é totalmente configurável, reduzindo o custo para a criação de novos ambientes de simulação.
 
 
 ssg_xplane_plugins - um plugin básico para o simulador X-Plane
 _______________________________________________________________
-No projeto ssg_xplane_plugins (`ssg_xplane_plugins`_), eu desenvolvi em C++ um plugin básico para o simulador de voô X-Plane 9. 
+  No projeto ssg_xplane_plugins (`ssg_xplane_plugins`_), eu desenvolvi em C++ um plugin básico para o simulador de voô X-Plane 9. 
 
 
-Engenheiro de software e desenvolvedor - LANE (Laboratório de Análise Numérica em Eletro-magnetismo)/UFPA
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Engenheiro de software e desenvolvedor, LANE (Laboratório de Análise Numérica em Eletro-magnetismo)/UFPA, , *2007* - *2012*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 YAEL - Uma linguagem para descrição de cenários de simulação
 _____________________________________________________________
-Durante minha graduação, eu desenvolvi para o simulador LANE SAGS, uma linguagem para descrição de cenários de simulação.
+  Durante minha graduação, eu desenvolvi para o simulador LANE SAGS, uma linguagem para descrição de cenários de simulação.
 
-Esta linguagem foi desenvolvida em C++, utilizando-se Bison, Flex.
+  Esta linguagem foi desenvolvida em C++, utilizando-se Bison, Flex.
 
 
 
 LANE MAXWELL - Sistema de simulação *meshless* para propagação de ondas eletro-magnéticas
 __________________________________________________________________________________________
-Durante minha graduação e mestrado, trabalhei com simuladores de propagação eletro-magnética -utilizando uma discretização das equações de Maxwell-. Para a defesa de meu mestrado, tive de implementar um simulador estado da arte para simulações *meshless*, isto é, um simulador que não exige que usuário forneça a topologia da estrutura que deseja simular.
+  Durante minha graduação e mestrado, trabalhei com simuladores de propagação eletro-magnética -utilizando uma discretização das equações de Maxwell-. Para a defesa de meu mestrado, tive de implementar um simulador estado da arte para simulações *meshless*, isto é, um simulador que não exige que usuário forneça a topologia da estrutura que deseja simular.
 
-O sistema foi desenvolvido em C++ e possui uma interface gráfica desenvolvida em QT4. Além disso, este trabalho rendeu dois artigos publicados em periódicos.
+  O sistema foi desenvolvido em C++ e possui uma interface gráfica desenvolvida em QT4. Além disso, este trabalho rendeu dois artigos publicados em periódicos.
 
 
-Projetos software livre
+Experiência Software Livre
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 Linguagem Clever - Implementação do suporte a paralelismo na linguagem Clever e outras características da linguagem
 ____________________________________________________________________________________________________________________
-Projetei e desenvolvi o modelo de paralelismo da linguagem Clever. Além disso, participo do aprimoramento de diversas características da linguagem.
+  Projetei e desenvolvi o modelo de paralelismo da linguagem Clever. Além disso, participo do aprimoramento de diversas características da linguagem.
 
-A linguagem Clever é desenvolvida por um dos desenvolvedores do *core* do PHP, o Felipe Pena.
+  A linguagem Clever é desenvolvida por um dos desenvolvedores do *core* do PHP, o Felipe Pena.
 
 
 
 
 PASME - Um programa básico de criptografia
 ___________________________________________
-Nesse projeto, eu construi um sistema básico de encriptação e ocultação de informação em imagens e outros arquivos. O programa foi escrito em C++, com interface gráfica desenvolvida em QT4.
+  Nesse projeto, eu construi um sistema básico de encriptação e ocultação de informação em imagens e outros arquivos. O programa foi escrito em C++, com interface gráfica desenvolvida em QT4.
 
 
 
@@ -98,12 +98,12 @@ Eventos e premiações
 
 Finalista nacional da maratona de programação ACM ICPC nos anos de 2008, 2009, 2010 
 ____________________________________________________________________________________
-Com o time GoGo40, consegui chegar a 3 finais nacionais seguidas da maratona de programação. Durante esse período, eu pude estabelecer contatos com programadores brilhantes e adquiri fluência tanto no desenvolvimento de algoritmo quanto na utilização eficiente de linguagens de programação.
+  Com o time GoGo40, consegui chegar a 3 finais nacionais seguidas da maratona de programação. Durante esse período, eu pude estabelecer contatos com programadores brilhantes e adquiri fluência tanto no desenvolvimento de algoritmo quanto na utilização eficiente de linguagens de programação.
 
 
 Medalha de ouro na OBMEP 2005
 ______________________________
-No fim do ensino médio, consegui conquistar uma medalha de ouro na OBMEP2005 (Olimpíada Brasileira de Matemática das Escolas Públicas).
+  No fim do ensino médio, consegui conquistar uma medalha de ouro na OBMEP2005 (Olimpíada Brasileira de Matemática das Escolas Públicas).
 
 
 
