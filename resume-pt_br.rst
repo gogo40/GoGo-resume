@@ -58,7 +58,7 @@ _______________________________________________________________
   No projeto ssg_xplane_plugins (`ssg_xplane_plugins`_), eu desenvolvi em C++ um plugin básico para o simulador de voô X-Plane 9. 
 
 
-Engenheiro de software e desenvolvedor, LANE (Laboratório de Análise Numérica em Eletro-magnetismo)/UFPA, , *2007* - *2012*
+Engenheiro de software e desenvolvedor, LANE (Laboratório de Análise Numérica em Eletro-magnetismo)/UFPA, *2008* - *2012*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
