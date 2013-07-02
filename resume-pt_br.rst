@@ -32,15 +32,18 @@ Algumas experiências relevantes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-
-Arquiteto de Software, XM software, *2012* - *2013*
+Consultor Externo, Fernando Marques Consultoria, *2013*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 GeHos - Desenvolvimento de um sistema de gestão hospitalar
 ___________________________________________________________
-  Desenvolvo e mantenho para o cliente Fernando Marques Consultoria um sistema de gestão hospitalar. Este sistema permite agendamento de consultas em diversas unidades, geração de prontuários, controle da utilização de convênios e planos, entre outras funcionalidades.
+  Desenvolvo e mantenho  um sistema de gestão hospitalar. Este sistema permite agendamento de consultas em diversas unidades, geração de prontuários, controle da utilização de convênios e planos, entre outras funcionalidades.
 
   O sistema foi desenvolvido em PHP e Javascript. 
+
+
+Arquiteto de Software, XM software, *2012* - *2013*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 X-Manager - um projeto *start-up*
