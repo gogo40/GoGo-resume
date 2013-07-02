@@ -65,7 +65,7 @@ Engenheiro de software e desenvolvedor, LANE (Laboratório de Análise Numérica
 
 LANE SAGS - Simulador para analise de aterramentos
 __________________________________________________
-  Trabalhei na manutenção e suporte do sistema. Desenvolvi uma nova interface em QT4 e treinei novos usuários do sistema.
+  Trabalhei na manutenção e suporte do sistema. Desenvolvi uma nova interface em QT4 e treinei novos usuários.
   
 
 YAEL - Uma linguagem para descrição de cenários de simulação
