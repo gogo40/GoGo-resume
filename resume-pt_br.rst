@@ -163,6 +163,7 @@ Publicações técnicas
 
 Projetos, e Links
 ------------------------------
+- `brspoj`_: Meu perfil no SPOJ Brasil
 - `sourceforge`_ : Meu repositório de projetos open-source
 - `github`_ : Minha página pessoal do github contendo projetos que mantenho e que desenvolvo
 - Este `Currículo`_: `Repositório`_ 
@@ -176,3 +177,6 @@ Projetos, e Links
 .. _`Sistema de gestão hospitalar GeHos`: periclesmachado.com/cliente/fernando_marques/gehos1.0
 .. _`Jogo de negócios configurável X-Manager`: http://xmanager.co/novo/
 .. _`ssg_xplane_plugins`: https://github.com/gogo40/ssg_xplane_plugins
+.. _`brspoj`: http://br.spoj.pl/users/gogo40
+
+
