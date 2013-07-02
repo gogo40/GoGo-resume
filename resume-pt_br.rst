@@ -65,7 +65,9 @@ Engenheiro de software e desenvolvedor, LANE (Laboratório de Análise Numérica
 
 LANE SAGS - Simulador para analise de aterramentos
 __________________________________________________
-  Trabalhei na manutenção e suporte do sistema. Desenvolvi uma nova interface em QT4 e treinei novos usuários.
+  Trabalhei na manutenção e suporte do sistema. Desenvolvi uma nova interface em QT4 e treinei novos usuários. 
+  
+  Além disso, durante esse projeto, eu me aprimorei em sistemas distribuidos, já que a aplicação executava num *cluster Beuwolf* de 16 nós. O pacote MPI (*Message Passage Interface*) foi bastante utilizado.
   
 
 YAEL - Uma linguagem para descrição de cenários de simulação
@@ -140,7 +142,7 @@ Desenvolvimento de Software
 - Nível médio em Multiprogramação (threads, mutexes, semaphores, condition variable)
 - Nível médio em sistemas distribuídos
 - Programação em: Python, C, C++, Javascript, PHP, Lua, etc.
-- Ferramentas: Git, QMake, CMake, MySQL, Bison, Flex, etc.
+- Ferramentas: Git, QMake, CMake, MySQL, Bison, Flex, MPI, Pthread etc.
 - Plataformas: Linux (Debian, Ubuntu),  Windows (XP, 7).
 - Bibliotecas: Qt, Readline, Zlib, GSL, GLUT, opengl, ogre, GMP etc.
 - Conhecimento médio na técnica de desenvolvimento de simuladores físicos
