@@ -82,7 +82,7 @@ Experiência Software Livre
 
 PyPacMan
 ________
-  Um clone do clássico game PacMan, desenvolvido em python, pygtk.
+  Um clone do clássico game PacMan, desenvolvido em python, com GUI pygtk.
   
   O jogo pode ser jogado em rede com até 4 jogadores.
 
