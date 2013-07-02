@@ -139,7 +139,7 @@ Desenvolvimento de Software
 - Bibliotecas: Qt, Readline, Zlib, GSL, GLUT, opengl, ogre, GMP etc.
 - Conhecimento médio na técnica de desenvolvimento de simuladores físicos
 
-Maiores Influcências
+Maiores Influências
 ~~~~~~~~~~~~~~~~~~~~
 Andrew S. Tanenbaum, Djisktra, Donald Knuth, Richard Bellman, Bjarn Stroustrup
 
