@@ -16,7 +16,7 @@ Tenho formação técnica em sistemas distribuídos e simulação física. Além
 
 Sou formado em Engenharia da Computação pela UFPA (Universidade Federal do Pará) e possuo mestrado em Engenharia Elétrica pela mesma instituição.
 
-Tenho 7 anos de experiência com projeto e desenvolvimento de interfaces gráficas em QT, programação distribuída em C++, projeto de algoritmos e desenvolvimento de compiladores.
+Tenho 6 anos de experiência com projeto e desenvolvimento de interfaces gráficas em QT, programação distribuída em C++, projeto de algoritmos e desenvolvimento de compiladores.
 
 Comecei a trabalhar com Python em janeiro de 2013.
 
