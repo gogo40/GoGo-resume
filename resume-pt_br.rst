@@ -145,7 +145,7 @@ Desenvolvimento de Software
 
 Maiores Influências
 ~~~~~~~~~~~~~~~~~~~~
-Andrew S. Tanenbaum, Djisktra, Donald Knuth, Richard Bellman, Bjarn Stroustrup
+Andrew S. Tanenbaum, Djisktra, Donald Knuth, Richard Bellman, Bjarne Stroustrup
 
 
 Publicações técnicas
