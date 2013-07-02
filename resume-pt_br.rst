@@ -161,7 +161,7 @@ Projetos, e Links
 ------------------------------
 - `sourceforge`_ : Meu repositório de projetos open-source
 - `github`_ : Minha página pessoal do github contendo projetos que mantenho e que desenvolvo
-- Este `Currículo`_: `Repositório`_ (atualizado em 28 de junho de 2013)
+- Este `Currículo`_: `Repositório`_ 
 - `Currículo Linked-in`_: Currículo completo com trabalhos publicados na academia e recomendações
 
 .. _`sourceforge`: https://sourceforge.net/users/periclesmachado
