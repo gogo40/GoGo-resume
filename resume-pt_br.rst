@@ -101,13 +101,21 @@ ________________________________________________________________________________
 
   A linguagem Clever é desenvolvida por um dos desenvolvedores do *core* do PHP, o Felipe Pena.
 
-
-
+  
 
 PASME - Um programa básico de criptografia
 ___________________________________________
   Nesse projeto, eu construi um sistema básico de encriptação e ocultação de informação em imagens e outros arquivos. O programa foi escrito em C++, com interface gráfica desenvolvida em QT4.
 
+
+gogoSokoban - Uma inteligência artificial desenvolvida para resolver Sokobans
+_____________________________________________________________________________
+  Nesse projeto, eu desenvolvi um sistema em C++ que resolve sokobans usando A* e heurísticas para encontrar a melhor solução num grande grafo de estados. 
+
+
+gogoNeuro - Um pacote de redes neurais
+______________________________________
+  Nesse projeto, eu desenvolvo uma série de implementações de diferentes modelos de rede neural, incluindo redes que utilizam funções de base radial.
 
 
 Eventos e premiações
