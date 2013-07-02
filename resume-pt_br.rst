@@ -64,7 +64,7 @@ Engenheiro de software e desenvolvedor, LANE (Laboratório de Análise Numérica
 
 YAEL - Uma linguagem para descrição de cenários de simulação
 _____________________________________________________________
-  Durante minha graduação, eu desenvolvi para o simulador LANE SAGS, uma linguagem para descrição de cenários de simulação.
+  Desenvolvi para o simulador LANE SAGS, uma linguagem para descrição de cenários de simulação.
 
   Esta linguagem foi desenvolvida em C++, utilizando-se Bison, Flex.
 
@@ -72,7 +72,7 @@ _____________________________________________________________
 
 LANE MAXWELL - Sistema de simulação *meshless* para propagação de ondas eletro-magnéticas
 __________________________________________________________________________________________
-  Durante minha graduação e mestrado, trabalhei com simuladores de propagação eletro-magnética -utilizando uma discretização das equações de Maxwell-. Para a defesa de meu mestrado, tive de implementar um simulador estado da arte para simulações *meshless*, isto é, um simulador que não exige que usuário forneça a topologia da estrutura que deseja simular.
+  Trabalhei com simuladores de propagação eletro-magnética -utilizando uma discretização das equações de Maxwell-. Para a defesa de meu mestrado, tive de implementar um simulador estado da arte para simulações *meshless*, isto é, um simulador que não exige que usuário forneça a topologia da estrutura que deseja simular.
 
   O sistema foi desenvolvido em C++ e possui uma interface gráfica desenvolvida em QT4. Além disso, este trabalho rendeu dois artigos publicados em periódicos.
 
