@@ -102,6 +102,12 @@ ________________________________________________________________________________
 Com o time GoGo40, consegui chegar a 3 finais nacionais seguidas da maratona de programação. Durante esse período, eu pude estabelecer contatos com programadores brilhantes e adquiri fluência tanto no desenvolvimento de algoritmo quanto na utilização eficiente de linguagens de programação.
 
 
+Medalha de ouro na OBMEP 2005
+______________________________
+
+No fim do ensino médio, consegui conquistar uma medalha de ouro na OBMEP2005 (Olimpíada Brasileira de Matemática das Escolas Públicas).
+
+
 
 ===============
 
