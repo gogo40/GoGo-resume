@@ -76,7 +76,7 @@ _____________________________________________________________
 
 LANE MAXWELL - Sistema de simulação *meshless* para propagação de ondas eletro-magnéticas
 __________________________________________________________________________________________
-  Durante o mestrado, trabalhei com simuladores de propagação eletro-magnética -utilizando uma discretização das equações de Maxwell-. Para a defesa de meu mestrado, tive de implementar um simulador estado da arte para simulações *meshless*, isto é, um simulador que não exige que usuário forneça a topologia da estrutura que deseja simular.
+  Durante o mestrado, trabalhei com simuladores de propagação eletro-magnética -utilizando uma discretização das equações de Maxwell-. Para a defesa de meu mestrado, tive de projetar e implementar um simulador estado da arte para simulações *meshless*, isto é, um simulador que não exige que usuário forneça a topologia da estrutura que deseja simular.
 
   O sistema foi desenvolvido em C++ e possui uma interface gráfica desenvolvida em QT4. Além disso, este trabalho rendeu dois artigos publicados em periódicos.
 
