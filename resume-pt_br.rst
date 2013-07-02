@@ -52,6 +52,8 @@ __________________________________
 
   O sistema foi escrito em Python, PHP e Javascript. A plataforma é totalmente configurável, reduzindo o custo para a criação de novos ambientes de simulação.
 
+Consultor Externo, Supercritical Simulation Group, *2012*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ssg_xplane_plugins - um plugin básico para o simulador X-Plane
 _______________________________________________________________
