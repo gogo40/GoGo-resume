@@ -73,6 +73,11 @@ ___________________________________________
 Nesse projeto, eu construi um sistema básico de encriptação e ocultação de informação em imagens e outros arquivos. O programa foi escrito em C++, com interface gráfica desenvolvida em QT4.
 
 
+
+Engenheiro de software e desenvolvedor - LANE (Laboratório de Análise Numérica em Eletro-magnetismo)/UFPA
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
 YAEL - Uma linguagem para descrição de cenários de simulação
 _____________________________________________________________
 Durante minha graduação, eu desenvolvi para o simulador LANE SAGS, uma linguagem para descrição de cenários de simulação.
