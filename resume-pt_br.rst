@@ -121,7 +121,7 @@ ________________________________________________________________________________
 
 Medalha de ouro na OBMEP 2005
 ______________________________
-  No fim do ensino médio, consegui conquistar uma medalha de ouro na OBMEP2005 (Olimpíada Brasileira de Matemática das Escolas Públicas).
+  No final do ensino médio, consegui conquistar uma medalha de ouro na OBMEP2005 (Olimpíada Brasileira de Matemática das Escolas Públicas).
 
 
 
