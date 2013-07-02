@@ -20,7 +20,7 @@ Tenho 7 anos de experiência com projeto e desenvolvimento de interfaces gráfic
 
 Comecei a trabalhar com Python em janeiro de 2013.
 
-Além disso, trabalho a dois com desenvolvimento de sistemas comerciais utilizando PHP, Javascript.
+Além disso, trabalho há dois com desenvolvimento de sistemas comerciais utilizando PHP, Javascript.
 
 O desafio me motiva, por isso constantemente participo de projetos *open-source* e de competições *online* como o TopCoder e HackerRank.
 
