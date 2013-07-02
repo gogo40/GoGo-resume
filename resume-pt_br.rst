@@ -55,25 +55,6 @@ _______________________________________________________________
 No projeto ssg_xplane_plugins (`ssg_xplane_plugins`_), eu desenvolvi em C++ um plugin básico para o simulador de voô X-Plane 9. 
 
 
-
-Projetos software livre
-~~~~~~~~~~~~~~~~~~~~~~~
-
-Linguagem Clever - Implementação do suporte a paralelismo na linguagem Clever e outras características da linguagem
-____________________________________________________________________________________________________________________
-Projetei e desenvolvi o modelo de paralelismo da linguagem Clever. Além disso, participo do aprimoramento de diversas características da linguagem.
-
-A linguagem Clever é desenvolvida por um dos desenvolvedores do *core* do PHP, o Felipe Pena.
-
-
-
-
-PASME - Um programa básico de criptografia
-___________________________________________
-Nesse projeto, eu construi um sistema básico de encriptação e ocultação de informação em imagens e outros arquivos. O programa foi escrito em C++, com interface gráfica desenvolvida em QT4.
-
-
-
 Engenheiro de software e desenvolvedor - LANE (Laboratório de Análise Numérica em Eletro-magnetismo)/UFPA
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -91,6 +72,23 @@ ________________________________________________________________________________
 Durante minha graduação e mestrado, trabalhei com simuladores de propagação eletro-magnética -utilizando uma discretização das equações de Maxwell-. Para a defesa de meu mestrado, tive de implementar um simulador estado da arte para simulações *meshless*, isto é, um simulador que não exige que usuário forneça a topologia da estrutura que deseja simular.
 
 O sistema foi desenvolvido em C++ e possui uma interface gráfica desenvolvida em QT4. Além disso, este trabalho rendeu dois artigos publicados em periódicos.
+
+
+Projetos software livre
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Linguagem Clever - Implementação do suporte a paralelismo na linguagem Clever e outras características da linguagem
+____________________________________________________________________________________________________________________
+Projetei e desenvolvi o modelo de paralelismo da linguagem Clever. Além disso, participo do aprimoramento de diversas características da linguagem.
+
+A linguagem Clever é desenvolvida por um dos desenvolvedores do *core* do PHP, o Felipe Pena.
+
+
+
+
+PASME - Um programa básico de criptografia
+___________________________________________
+Nesse projeto, eu construi um sistema básico de encriptação e ocultação de informação em imagens e outros arquivos. O programa foi escrito em C++, com interface gráfica desenvolvida em QT4.
 
 
 
