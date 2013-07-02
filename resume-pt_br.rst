@@ -77,6 +77,13 @@ ________________________________________________________________________________
 Experiência Software Livre
 ~~~~~~~~~~~~~~~~~~~~~~~
 
+PyPacMan
+________
+  Um clone do clássico game PacMan, desenvolvido em python, pygtk.
+  
+  O jogo pode ser jogado em rede com até 4 jogadores.
+
+
 Linguagem Clever - Implementação do suporte a paralelismo na linguagem Clever e outras características da linguagem
 ____________________________________________________________________________________________________________________
   Projetei e desenvolvi o modelo de paralelismo da linguagem Clever. Além disso, participo do aprimoramento de diversas características da linguagem.
