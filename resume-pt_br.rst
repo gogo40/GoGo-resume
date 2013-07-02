@@ -39,7 +39,7 @@ GeHos - Desenvolvimento de um sistema de gestão hospitalar
 ___________________________________________________________
   Desenvolvo e mantenho  um sistema de gestão hospitalar. Este sistema permite agendamento de consultas em diversas unidades, geração de prontuários, controle da utilização de convênios e planos, entre outras funcionalidades.
 
-  O sistema foi desenvolvido em PHP e Javascript. 
+  O sistema foi desenvolvido em Python, PHP e Javascript. 
 
 
 Arquiteto de Software, XM software, *2012* - *2013*
