@@ -77,7 +77,7 @@ ________________________________________________________________________________
   O sistema foi desenvolvido em C++ e possui uma interface gráfica desenvolvida em QT4. Além disso, este trabalho rendeu dois artigos publicados em periódicos.
 
 
-Experiência Software Livre
+Experiência em Software Livre
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 PyPacMan
