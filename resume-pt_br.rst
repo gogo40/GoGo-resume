@@ -61,6 +61,10 @@ _______________________________________________________________
 Engenheiro de software e desenvolvedor, LANE (Laboratório de Análise Numérica em Eletro-magnetismo)/UFPA, *2008* - *2012*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+LANE SAGS - Simulador para analise de aterramentos
+__________________________________________________
+  Trabalhei na manutenção e suporte do sistema. Desenvolvi uma nova interface em QT4 e treinei novos usuários do sistema.
+  
 
 YAEL - Uma linguagem para descrição de cenários de simulação
 _____________________________________________________________
