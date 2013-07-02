@@ -150,8 +150,11 @@ Andrew S. Tanenbaum, Djisktra, Donald Knuth, Richard Bellman, Bjarn Stroustrup
 
 Publicações técnicas
 ----------------------
-.. _`Analysis of voltages induced on power outlets due to atmospheric discharges on Radio Base Stations`, Elsevier: http://www.sciencedirect.com/science/article/pii/S0307904X13000346
-.. _`An automatic methodology for obtaining optimum shape factors for the radial point interpolation method`, Journal of Microwaves and Optoelectronics: http://www.scielo.br/scielo.php?pid=S2179-10742011000200009&script=sci_arttext
+- `Analysis of voltages induced on power outlets due to atmospheric discharges on Radio Base Stations`_, Elsevier
+- `An automatic methodology for obtaining optimum shape factors for the radial point interpolation method`_, Journal of Microwaves and Optoelectronics
+
+.. _`Analysis of voltages induced on power outlets due to atmospheric discharges on Radio Base Stations`: http://www.sciencedirect.com/science/article/pii/S0307904X13000346
+.. _`An automatic methodology for obtaining optimum shape factors for the radial point interpolation method`: http://www.scielo.br/scielo.php?pid=S2179-10742011000200009&script=sci_arttext
 
 
 Projetos, e Links
