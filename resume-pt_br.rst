@@ -148,6 +148,12 @@ Maiores Influências
 Andrew S. Tanenbaum, Djisktra, Donald Knuth, Richard Bellman, Bjarn Stroustrup
 
 
+Publicações técnicas
+----------------------
+- `Analysis of voltages induced on power outlets due to atmospheric discharges on Radio Base Stations`_, Elsevier: http://www.sciencedirect.com/science/article/pii/S0307904X13000346
+- `An automatic methodology for obtaining optimum shape factors for the radial point interpolation method`_, Journal of Microwaves and Optoelectronics: http://www.scielo.br/scielo.php?pid=S2179-10742011000200009&script=sci_arttext
+
+
 Projetos, e Links
 ------------------------------
 - `sourceforge`_ : Meu repositório de projetos open-source
