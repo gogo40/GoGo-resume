@@ -57,7 +57,7 @@ Consultor Externo, Supercritical Simulation Group, *2012*
 
 ssg_xplane_plugins - um plugin básico para o simulador X-Plane
 _______________________________________________________________
-  No projeto ssg_xplane_plugins (`ssg_xplane_plugins`_), eu desenvolvi em C++ um plugin básico para o simulador de voô X-Plane 9. 
+  No projeto ssg_xplane_plugins (`ssg_xplane_plugins`_), eu desenvolvi em C++ um plugin básico para o simulador de voô X-Plane 10. 
 
 
 Engenheiro de software e desenvolvedor, LANE (Laboratório de Análise Numérica em Eletro-magnetismo)/UFPA, *2008* - *2012*
