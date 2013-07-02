@@ -1,4 +1,4 @@
-Pericles Lopes Machado
+Péricles Lopes Machado
 ========================
 
 :Email: pericles.raskolnikoff@gmail.com
