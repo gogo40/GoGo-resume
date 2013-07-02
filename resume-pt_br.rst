@@ -66,7 +66,7 @@ YAEL - Uma linguagem para descrição de cenários de simulação
 _____________________________________________________________
   Desenvolvi para o simulador LANE SAGS, uma linguagem para descrição de cenários de simulação.
 
-  Esta linguagem foi desenvolvida em C++, utilizando-se Bison, Flex.
+  Esta linguagem foi desenvolvida em C++, utilizando-se Bison e Flex.
 
 
 
