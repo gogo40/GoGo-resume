@@ -62,6 +62,8 @@ __________________________________
 
   O sistema foi escrito em Python, PHP e Javascript. A plataforma é totalmente configurável, reduzindo o custo para a criação de novos ambientes de simulação.
 
+  Atualmente, este projeto encontra-se em fase de pré-incubação na CEI/UFRGS (http://www.inf.ufrgs.br/cei/)
+  
 Consultor Externo, Supercritical Simulation Group, *2012*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
