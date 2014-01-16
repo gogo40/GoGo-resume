@@ -57,7 +57,7 @@ Arquiteto de Software, XM software, *2012* - *2013*
 
 X-Manager - um projeto *start-up*
 __________________________________
-  No projeto X-Manager (`Jogo de negócios configurável X-Manager`_), eu desenvolvi um jogo de negócios configurável e uma rede social profissional. O objetivo desse projeto é fornecer um ambiente *gamificado* para treinamento em gestão de empresas.
+  No projeto X-Manager (`xmanager`_), eu desenvolvi um jogo de negócios configurável e uma rede social profissional. O objetivo desse projeto é fornecer um ambiente *gamificado* para treinamento em gestão de empresas.
 
   O sistema foi escrito em Python, PHP e Javascript. A plataforma é totalmente configurável, reduzindo o custo para a criação de novos ambientes de simulação.
 
