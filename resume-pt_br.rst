@@ -186,7 +186,7 @@ Projetos, e Links
 - `github`_ : Minha página pessoal do github contendo projetos que mantenho e que desenvolvo
 - Este `Currículo`_: `Repositório`_ 
 - `Currículo Linked-in`_: Currículo completo com trabalhos publicados na academia e recomendações
-- `Jogo de negócios configurável X-Manager`:
+- `xmanager`_:Jogo de negócios configurável X-Manager
 
 .. _`site` : http://gogo40.com
 .. _`sourceforge`: https://sourceforge.net/users/periclesmachado
@@ -195,7 +195,7 @@ Projetos, e Links
 .. _`Repositório`: https://github.com/gogo40/resume
 .. _`Currículo Linked-in`: http://www.linkedin.com/profile/view?id=91897412
 .. _`Sistema de gestão hospitalar GeHos`: periclesmachado.com/cliente/fernando_marques/gehos1.0
-.. _`Jogo de negócios configurável X-Manager`: https://xmanager.co/
+.. _`xmanager`: https://xmanager.co/
 .. _`ssg_xplane_plugins`: https://github.com/gogo40/ssg_xplane_plugins
 .. _`brspoj`: http://br.spoj.pl/users/gogo40
 
