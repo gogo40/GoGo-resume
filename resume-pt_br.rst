@@ -51,7 +51,7 @@ ___________________________________________________________
   O sistema foi desenvolvido em Python, PHP e Javascript. 
 
 
-Arquiteto de Software, XM software, *2012* - *2013*
+Arquiteto de Software, XM software, *2012* - atual
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
