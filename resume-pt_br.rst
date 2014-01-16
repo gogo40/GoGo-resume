@@ -181,6 +181,7 @@ Publicações técnicas
 
 Projetos, e Links
 ------------------------------
+- `sgems`_: Repositório público do projeto SGeMS
 - `site`_: Meu site pessoal
 - `brspoj`_: Meu perfil no SPOJ Brasil
 - `sourceforge`_ : Meu repositório de projetos open-source
