@@ -37,7 +37,7 @@ Pesquisador contratado LPM/UFRGS, *2013* - atual
 
 AR2GEMS
 _______
-  Desenvolvimento de plugins e aprimorando do software SGeMS (`sgems`_).
+  Desenvolvimento de plugins e aprimorando do software SGeMS (`sgems`_). Este projeto de pesquisa é financiado pela Petrobrás.
 
   O sistema é escrito em C++ e python.
 
