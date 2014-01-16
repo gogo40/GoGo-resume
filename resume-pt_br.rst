@@ -2,8 +2,8 @@ Péricles Lopes Machado
 ========================
 
 :Email: pericles.raskolnikoff@gmail.com
-:Localização: Barcarena/PA, Brasil
-:Idade: 24
+:Localização: Porto Alegre/RS, Brasil
+:Data de nascimento: 02/02/1989
 
 Experiência relevante
 ---------------------
@@ -36,7 +36,7 @@ Pesquisador contratado LPM/UFRGS, *2013* - atual
 
 AR2GEMS
 _______
-  Desenvolvimento de plugins e aprimorando do software SGeMS.
+  Desenvolvimento de plugins e aprimorando do software SGeMS (`sgems`_).
 
   O sistema é escrito em C++ e python.
 
@@ -188,6 +188,7 @@ Projetos, e Links
 - `Currículo Linked-in`_: Currículo completo com trabalhos publicados na academia e recomendações
 - `xmanager`_:Jogo de negócios configurável X-Manager
 
+.. _`sgems`: https://github.com/ar2tech/ar2tech-SGeMS-public
 .. _`site` : http://gogo40.com
 .. _`sourceforge`: https://sourceforge.net/users/periclesmachado
 .. _`github`: https://github.com/gogo40
