@@ -36,9 +36,9 @@ Pesquisador contratado LPM/UFRGS, *2013* - atual
 
 AR2GEMS
 _______
-Desenvolvimento de plugins e aprimorando do software SGeMS.
+  Desenvolvimento de plugins e aprimorando do software SGeMS.
 
-O sistema é escrito em C++ e python.
+  O sistema é escrito em C++ e python.
 
 
 Consultor Externo, Fernando Marques Consultoria, *2013*
