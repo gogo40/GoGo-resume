@@ -188,7 +188,7 @@ Projetos, e Links
 - `Currículo Linked-in`_: Currículo completo com trabalhos publicados na academia e recomendações
 - `Jogo de negócios configurável X-Manager`:
 
-.. -`site` : http://gogo40.com
+.. _`site` : http://gogo40.com
 .. _`sourceforge`: https://sourceforge.net/users/periclesmachado
 .. _`github`: https://github.com/gogo40
 .. _`Currículo`: https://github.com/gogo40/resume/blob/master/resume-pt_br.rst
