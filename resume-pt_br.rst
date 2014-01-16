@@ -31,13 +31,22 @@ _______
 Algumas experiências relevantes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Pesquisador contratado LPM/UFRGS, *2013* - atual
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+AR2GEMS
+_______
+Desenvolvimento de plugins e aprimorando do software SGeMS.
+
+O sistema é escrito em C++ e python.
+
 
 Consultor Externo, Fernando Marques Consultoria, *2013*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 GeHos - Desenvolvimento de um sistema de gestão hospitalar
 ___________________________________________________________
-  Desenvolvo e mantenho  um sistema de gestão hospitalar. Este sistema permite agendamento de consultas em diversas unidades, geração de prontuários, controle da utilização de convênios e planos, entre outras funcionalidades.
+  Desenvolvi e mantive  um sistema de gestão hospitalar. Este sistema permite agendamento de consultas em diversas unidades, geração de prontuários, controle da utilização de convênios e planos, entre outras funcionalidades.
 
   O sistema foi desenvolvido em Python, PHP e Javascript. 
 
@@ -171,19 +180,22 @@ Publicações técnicas
 
 Projetos, e Links
 ------------------------------
+- `site`_: Meu site pessoal
 - `brspoj`_: Meu perfil no SPOJ Brasil
 - `sourceforge`_ : Meu repositório de projetos open-source
 - `github`_ : Minha página pessoal do github contendo projetos que mantenho e que desenvolvo
 - Este `Currículo`_: `Repositório`_ 
 - `Currículo Linked-in`_: Currículo completo com trabalhos publicados na academia e recomendações
+- `Jogo de negócios configurável X-Manager`:
 
+.. -`site` : http://gogo40.com
 .. _`sourceforge`: https://sourceforge.net/users/periclesmachado
 .. _`github`: https://github.com/gogo40
 .. _`Currículo`: https://github.com/gogo40/resume/blob/master/resume-pt_br.rst
 .. _`Repositório`: https://github.com/gogo40/resume
 .. _`Currículo Linked-in`: http://www.linkedin.com/profile/view?id=91897412
 .. _`Sistema de gestão hospitalar GeHos`: periclesmachado.com/cliente/fernando_marques/gehos1.0
-.. _`Jogo de negócios configurável X-Manager`: http://xmanager.co/novo/
+.. _`Jogo de negócios configurável X-Manager`: https://xmanager.co/
 .. _`ssg_xplane_plugins`: https://github.com/gogo40/ssg_xplane_plugins
 .. _`brspoj`: http://br.spoj.pl/users/gogo40
 
