@@ -147,7 +147,7 @@ ______________________________
 Idiomas
 -------
 - Português (*Idioma nativo*): compreende bem, fala bem, lê bem, escreve bem
-- Inglês: compreende pouco, fala pouco, lê bem, escreve razoavelmente
+- Inglês: compreende razoavelmente, fala razoavelmente, lê bem, escreve razoavelmente
 
 Habilidades
 -----------
