@@ -52,7 +52,7 @@ ________________________________
   The system is written in Python, PHP and Javascript, The platform is completly configurable, reducing the construction cost of  new simulations environments.
 
 
-  Currently, this project is in start-up phase in CEI/UFRGS (http://www.inf.ufrgs.br/cei/)
+  Currently, this project is in start-up phase at CEI/UFRGS (http://www.inf.ufrgs.br/cei/)
   
 
 
