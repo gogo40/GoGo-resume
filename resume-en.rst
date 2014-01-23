@@ -13,7 +13,7 @@ My formation is in distributed systems and physics simulation. Furthermore, duri
 
 I have a Computer engineering's bachelor degree and a Electric engineering's master degree from UFPA (Universidade Federal do Pará - Federal University of Pará).
 
-Since 2008, I'm working with project and development of GUI's, distributed programming in C++, algorithms project and compiler development. And, since 2013, I work with Python em janeiro de 2013.
+Since 2008, I'm working with project and development of GUI's, distributed programming in C++, algorithms project and compiler development. And, since 2013, I work with Python.
 
 Also, I work with commercial systems development using PHP and javascript, since 2011.  
 
