@@ -112,7 +112,7 @@ ______________________________________________________________
   With the GoGo40 team, I attended three consecutives ACM ICPC south america finals.
   
 
-Golden medal at SBC/MEC OBMEP 2005 (Brazilian Public School Math Olympiads 2005 promoted by Brazilian Math Society and Education Ministery)
+Golden medal at SBM/MEC OBMEP 2005 (Brazilian Public School Math Olympiads 2005 promoted by Brazilian Math Society and Education Ministery)
 ___________________________________________________________________________________________________________________________________________
   During my high school, I gained a golden medal at OBMEP 2005.
 
