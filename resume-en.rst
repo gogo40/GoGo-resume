@@ -9,7 +9,7 @@ Péricles Lopes Machado
 About
 ~~~~~
 
-My formation is in distributed systems and physics simulation. Futhermore, during my undergraduation I participated of three IBM/ACM ICPC national finals (south america/Brazil).
+My formation is in distributed systems and physics simulation. Furthermore, during my undergraduation I participated of three IBM/ACM ICPC national finals (south america/Brazil).
 
 I have a Computer engineering's bachelor degree and a Electric engineering's master degree from UFPA (Universidade Federal do Pará - Federal University of Pará).
 
@@ -90,7 +90,7 @@ ________
 
 Clever Language - Implementation of multi-thread support and others features (FFI, ncurses, etc.) 
 _________________________________________________________________________________________________
-  I designed and developed the Clever parallellism model. Futhermore, I work in improvement of  many features in the languages.
+  I designed and developed the Clever parallellism model. Furthermore, I work in improvement of  many features in the languages.
   
   The Clever is developed by a member of PHP "core" team, Felipe Pena. 
   
