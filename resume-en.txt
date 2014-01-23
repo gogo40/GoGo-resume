@@ -17,7 +17,7 @@ Since 2008, I'm working with project and development of GUI's, distributed progr
 
 Also, I work with commercial systems development using PHP and javascript, since 2011.  
 
-Challenges are my fun, therefore constantly I participate of open-source projects and online contests like TopCoder, HackerRank, Google Code Jam, Challenge 24, etc.
+Challenges are my fun, therefore I constantly participate of open-source projects and online contests like TopCoder, HackerRank, Google Code Jam, Challenge 24, etc.
 
 
 _______
@@ -90,7 +90,7 @@ ________
 
 Clever Language - Implementation of multi-thread support and others features (FFI, ncurses, etc.) 
 _________________________________________________________________________________________________
-  I designed and developed the Clever parallellism model. Furthermore, I work in improvement of  many features in the languages.
+  I designed and developed the Clever parallellism model. Furthermore, I work in improvement of  many features in the language.
   
   The Clever is developed by a member of PHP "core" team, Felipe Pena. 
   
