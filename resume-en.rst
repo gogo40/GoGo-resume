@@ -59,7 +59,7 @@ ________________________________
 Researcher and software engineer, LANE (Laboratório de Análise Numérica em Eletro-magnetismo)/UFPA, *2008* - *2012*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-LANE SAGS - Simulator for grunding analysis
+LANE SAGS - Simulator for grounding analysis
 ___________________________________________
   I worked with improvement and support. I developed a new QT4 GUI and I trained new users.
   
