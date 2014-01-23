@@ -90,7 +90,7 @@ ________
 
 Clever Language - Implementation of multi-thread support and others features (FFI, ncurses, etc.) 
 _________________________________________________________________________________________________
-  I designed and developed the Clever parallellism model. Furthermore, I work in improvement of  many features in the languages.
+  I designed and developed the Clever parallellism model. Furthermore, I work in improvement of  many features in the language.
   
   The Clever is developed by a member of PHP "core" team, Felipe Pena. 
   
