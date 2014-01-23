@@ -97,8 +97,8 @@ ________________________________________________________________________________
   
 
 
-gogoSokoban - A education project, where I work with a AI development to solve sokobans
-________________________________________________________________________________________
+gogoSokoban - A educational project, where I work with a AI development to solve sokobans
+_________________________________________________________________________________________
   In this project, I developed a system using C++ that solve sokobans with A* and heuristics to find the best solutions.
 
 
