@@ -13,7 +13,7 @@ My formation is in distributed systems and physics simulation. Furthermore, duri
 
 I have a Computer engineering's bachelor degree and a Electric engineering's master degree from UFPA (Universidade Federal do Pará - Federal University of Pará).
 
-Since 2008, I'm working with project and development of GUI's, distributed programming in C++, algorithms project and compiler development. And, since 2013, I work with Python em janeiro de 2013.
+Since 2008, I'm working with project and development of GUI's, distributed programming in C++, algorithms project and compiler development. And, since 2013, I work with Python.
 
 Also, I work with commercial systems development using PHP and javascript, since 2011.  
 
@@ -52,7 +52,7 @@ ________________________________
   The system is written in Python, PHP and Javascript, The platform is completly configurable, reducing the construction cost of  new simulations environments.
 
 
-  Currently, this project is in start-up phase in CEI/UFRGS (http://www.inf.ufrgs.br/cei/)
+  Currently, this project is in start-up phase at CEI/UFRGS (http://www.inf.ufrgs.br/cei/)
   
 
 
@@ -97,8 +97,8 @@ ________________________________________________________________________________
   
 
 
-gogoSokoban - A education project, where I work with a AI development to solve sokobans
-________________________________________________________________________________________
+gogoSokoban - A educational project, where I work with a AI development to solve sokobans
+_________________________________________________________________________________________
   In this project, I developed a system using C++ that solve sokobans with A* and heuristics to find the best solutions.
 
 
