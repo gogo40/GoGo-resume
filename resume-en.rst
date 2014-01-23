@@ -17,7 +17,7 @@ Since 2008, I'm working with project and development of GUI's, distributed progr
 
 Also, I work with commercial systems development using PHP and javascript, since 2011.  
 
-Challenges are my fun, therefore constantly I participate of open-source projects and online contests like TopCoder, HackerRank, Google Code Jam, Challenge 24, etc.
+Challenges are my fun, therefore I constantly participate of open-source projects and online contests like TopCoder, HackerRank, Google Code Jam, Challenge 24, etc.
 
 
 _______
