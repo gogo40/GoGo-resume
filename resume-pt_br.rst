@@ -12,15 +12,17 @@ Experiência relevante
 Sobre
 ~~~~~
 
-Tenho formação técnica em sistemas distribuídos e simulação física. Além disso, durante minha graduação participei de três finais nacionais da Maratona de programação AMC ICPC patrocinada pela IBM.
+Tenho formação técnica em sistemas distribuídos e computação científica. Além disso, durante minha graduação participei de três finais nacionais da Maratona de programação AMC ICPC patrocinada pela IBM.
 
 Sou formado em Engenharia da Computação pela UFPA (Universidade Federal do Pará) e possuo mestrado em Engenharia Elétrica pela mesma instituição.
 
 Desde 2008, trabalho com projeto e desenvolvimento de interfaces gráficas em QT, programação distribuída em C++, projeto de algoritmos e desenvolvimento de compiladores.
 
 Comecei a trabalhar com Python em janeiro de 2013.
-
+ 
 Além disso, trabalho desde 2011 com desenvolvimento de sistemas comerciais utilizando PHP, Javascript.
+
+Atualmente, eu possuo uma bolsa de pesquisa da Petrobrás num projeto no LPM/UFRGS (Laborário de Pesquisa e Planejamento Mineiro da Universidade Federal do Rio Grande do Sul).
 
 O desafio me motiva, por isso constantemente participo de projetos *open-source* e de competições *online* como o TopCoder e HackerRank.
 
@@ -35,26 +37,13 @@ Pesquisador contratado LPM/UFRGS, *2013* - atual
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-AR2GEMS
+SGeMS
 _______
-  Desenvolvimento de plugins e aprimorando do software SGeMS (`sgems`_). Este projeto de pesquisa é financiado pela Petrobrás.
-
+  Desenvolvimento de plugins e aprimorando do software SGeMS (`sgems`_). Este projeto de pesquisa é financiado pela Petrobrás. 
+  
+  Meu projeto de doutorado atual, dentro do SGeMS, é permitir a realização simulações e modelagens geo-estatística via uma infra-estrutura estado da arte de cloud computing.
+  
   O sistema é escrito em C++ e python.
-
-
-Consultor Externo, Fernando Marques Consultoria, *2013*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-GeHos - Desenvolvimento de um sistema de gestão hospitalar
-___________________________________________________________
-  Desenvolvi e mantive  um sistema de gestão hospitalar. Este sistema permite agendamento de consultas em diversas unidades, geração de prontuários, controle da utilização de convênios e planos, entre outras funcionalidades.
-
-  O sistema foi desenvolvido em Python, PHP e Javascript. 
-
-
-Arquiteto de Software, XM software, *2012* - atual
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 
 X-Manager - um projeto *start-up*
 __________________________________
@@ -64,15 +53,8 @@ __________________________________
 
   Atualmente, este projeto encontra-se em fase de pré-incubação na CEI/UFRGS (http://www.inf.ufrgs.br/cei/)
   
-Consultor Externo, Supercritical Simulation Group, *2012*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ssg_xplane_plugins - um plugin básico para o simulador X-Plane
-_______________________________________________________________
-  No projeto ssg_xplane_plugins (`ssg_xplane_plugins`_), eu desenvolvi em C++ um plugin básico para o simulador de voô X-Plane 10. 
-
-
-Engenheiro de software e desenvolvedor, LANE (Laboratório de Análise Numérica em Eletro-magnetismo)/UFPA, *2008* - *2012*
+Pesquisador, LANE (Laboratório de Análise Numérica em Eletro-magnetismo)/UFPA, *2008* - *2012*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 LANE SAGS - Simulador para analise de aterramentos
@@ -89,23 +71,14 @@ _____________________________________________________________
   Esta linguagem foi desenvolvida em C++, utilizando-se Bison e Flex.
 
 
-
 LANE MAXWELL - Sistema de simulação *meshless* para propagação de ondas eletro-magnéticas
 __________________________________________________________________________________________
   Durante o mestrado, trabalhei com simuladores de propagação eletro-magnética -utilizando uma discretização das equações de Maxwell-. Para a defesa do trabalho, tive de projetar e implementar um simulador estado da arte para simulações *meshless*, isto é, um simulador que não exige que usuário forneça a topologia da estrutura que deseja simular.
 
-  O sistema foi desenvolvido em C++ e possui uma interface gráfica desenvolvida em QT4. Além disso, este trabalho rendeu dois artigos publicados em periódicos.
-
+  O sistema foi desenvolvido em C++ e possui uma interface gráfica desenvolvida em QT4. Além disso, este trabalho rendeu um artigo publicado em periódico e dois em congressos.
 
 Experiência em Software Livre
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-PyPacMan
-________
-  Um clone do clássico game PacMan, desenvolvido em python, com GUI pygtk.
-  
-  O jogo pode ser jogado em rede com até 4 jogadores.
-
 
 Linguagem Clever - Implementação do suporte a paralelismo na linguagem Clever e outras características da linguagem
 ____________________________________________________________________________________________________________________
@@ -113,21 +86,11 @@ ________________________________________________________________________________
 
   A linguagem Clever é desenvolvida por um dos desenvolvedores do *core* do PHP, o Felipe Pena.
 
+SGeMS - Stanford Geostatistical Modeling Software
+_________________________________________________
+  Adicionei um sistema de gerenciamento de tarefas que melhorou significativamente a performancedo software. Agora, eu trabalho no desenvolvimento de um sistema que permite a utilização de cloud computing para acelerar a execução dos diversos algoritmos geo-estatísticos disponibilizados pelo software.
   
-
-PASME - Um programa básico de criptografia
-___________________________________________
-  Nesse projeto, eu construi um sistema básico de encriptação e ocultação de informação em imagens e outros arquivos. O programa foi escrito em C++, com interface gráfica desenvolvida em QT4.
-
-
-gogoSokoban - Uma inteligência artificial desenvolvida para resolver Sokobans
-_____________________________________________________________________________
-  Nesse projeto, eu desenvolvi um sistema em C++ que resolve sokobans usando A* e heurísticas para encontrar a melhor solução num grande grafo de estados. 
-
-
-gogoNeuro - Um pacote de redes neurais
-______________________________________
-  Nesse projeto, eu desenvolvo uma série de implementações de diferentes modelos de rede neural, incluindo redes que utilizam funções de base radial.
+  Neste trabalho, eu possuo orientação direta de um dos criadores do software, o Professor Alexandre Boucher (http://geostat.stanford.edu/).
 
 
 Eventos e premiações
@@ -142,7 +105,6 @@ ________________________________________________________________________________
 Medalha de ouro na OBMEP 2005
 ______________________________
   No final do ensino médio, consegui conquistar uma medalha de ouro na OBMEP2005 (Olimpíada Brasileira de Matemática das Escolas Públicas).
-
 
 
 ===============
@@ -179,7 +141,7 @@ Publicações técnicas
 
 .. _`Analysis of voltages induced on power outlets due to atmospheric discharges on Radio Base Stations`: http://www.sciencedirect.com/science/article/pii/S0307904X13000346
 .. _`An automatic methodology for obtaining optimum shape factors for the radial point interpolation method`: http://www.scielo.br/scielo.php?pid=S2179-10742011000200009&script=sci_arttext
-
+.. _`Using production data to improve grade estimation in underground mining. Transactions - Institution of Mining and Metallurgy`: http://www.maneyonline.com/doi/abs/10.1179/1743275814Y.0000000060
 
 Projetos, e Links
 ------------------------------
