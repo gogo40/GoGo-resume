@@ -51,7 +51,7 @@ __________________________________
 
   O sistema foi escrito em Python, PHP e Javascript. A plataforma é totalmente configurável, reduzindo o custo para a criação de novos ambientes de simulação.
 
-  Atualmente, este projeto encontra-se em fase de pré-incubação na CEI/UFRGS (http://www.inf.ufrgs.br/cei/)
+  Este projeto foi pré-incubado no CEI/UFRGS de 2013 a julho de 2014 (http://www.inf.ufrgs.br/cei/)
   
 
 Pesquisador, LANE (Laboratório de Análise Numérica em Eletro-magnetismo)/UFPA, *2008* - *2012*
@@ -161,9 +161,7 @@ Projetos, e Links
 .. _`Currículo`: https://github.com/gogo40/resume/blob/master/resume-pt_br.rst
 .. _`Repositório`: https://github.com/gogo40/resume
 .. _`Currículo Linked-in`: http://www.linkedin.com/profile/view?id=91897412
-.. _`Sistema de gestão hospitalar GeHos`: periclesmachado.com/cliente/fernando_marques/gehos1.0
 .. _`xmanager`: https://xmanager.co/
-.. _`ssg_xplane_plugins`: https://github.com/gogo40/ssg_xplane_plugins
 .. _`brspoj`: http://br.spoj.pl/users/gogo40
 
 
