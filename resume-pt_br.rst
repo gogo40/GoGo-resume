@@ -127,7 +127,7 @@ Desenvolvimento de Software
 - Ferramentas: Git, QMake, CMake, MySQL, Bison, Flex, MPI, Pthread etc.
 - Plataformas: Linux (Debian, Ubuntu),  Windows (XP, 7).
 - Bibliotecas: Qt, Readline, Zlib, GSL, GLUT, opengl, ogre, GMP etc.
-- Conhecimento médio na técnica de desenvolvimento de simuladores físicos
+- Alguma experiência no desenvolvimento de simuladores físicos e geo-estatísticos.
 
 Maiores Influências
 ~~~~~~~~~~~~~~~~~~~~
