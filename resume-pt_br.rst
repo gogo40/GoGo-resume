@@ -41,7 +41,7 @@ SGeMS
 _______
   Desenvolvimento de plugins e aprimorando do software SGeMS (`sgems`_). Este projeto de pesquisa é financiado pela Petrobrás. 
   
-  Meu projeto de doutorado atual, dentro do SGeMS, é permitir a realização simulações e modelagens geo-estatística via uma infra-estrutura estado da arte de cloud computing.
+  Meu projeto de doutorado atual, dentro do SGeMS, é permitir a realização de simulações e modelagens geo-estatísticas via uma infra-estrutura estado da arte de cloud computing.
   
   O sistema é escrito em C++ e python.
 
