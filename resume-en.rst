@@ -15,7 +15,7 @@ I have a Computer engineering's bachelor degree and a Electric engineering's mas
 
 Since 2008, I'm working with project and development of GUI's, distributed programming in C++, algorithms project and compiler development. And, since 2013, I work with Python.
 
-Currently, I'm trying to get a phd degree in Computational Geostatistics (Natural Reservoir modelling using computers). In my research project, I'm developing a new cloud to simulate natural reservoir using state-of-art simulation algorithms.
+Currently, I'm trying to get a phd degree in Computational Geostatistics (Natural Reservoir modelling using computers). In my research project, I'm developing a new cloud to simulate natural reservoirs using state-of-art simulation algorithms.
 
 Challenges are my fun, therefore I constantly participate of open-source projects and online contests like TopCoder, HackerRank, Google Code Jam, Challenge 24, etc.
 
