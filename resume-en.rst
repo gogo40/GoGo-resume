@@ -1,7 +1,7 @@
 Péricles Lopes Machado
 ========================
 
-:Email: pericles.raskolnikoff@gmail.com
+:Email: eu@gogo40.com
 :Location: Porto Alegre/RS, Brazil
 :Birth date: 02/02/1989
 
