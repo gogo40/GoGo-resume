@@ -155,9 +155,11 @@ Technical Publications
 ~~~~~~~~~~~~~~~~~~~~~~
 - `Analysis of voltages induced on power outlets due to atmospheric discharges on Radio Base Stations`_, Elsevier
 - `An automatic methodology for obtaining optimum shape factors for the radial point interpolation method`_, Journal of Microwaves and Optoelectronics
+- `A conflict-free, path-level parallelization approach for sequential simulation algorithms`_, Elsevier, Computers & Geosciences / Elsevier
 
 .. _`Analysis of voltages induced on power outlets due to atmospheric discharges on Radio Base Stations`: http://www.sciencedirect.com/science/article/pii/S0307904X13000346
 .. _`An automatic methodology for obtaining optimum shape factors for the radial point interpolation method`: http://www.scielo.br/scielo.php?pid=S2179-10742011000200009&script=sci_arttext
+.. _`A conflict-free, path-level parallelization approach for sequential simulation algorithms`: http://www.sciencedirect.com/science/article/pii/S0098300415000734
 
 
 Projects and links
