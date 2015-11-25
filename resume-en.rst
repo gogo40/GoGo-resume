@@ -71,7 +71,7 @@ Researcher and software engineer, LANE (Laboratório de Análise Numérica em El
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 LANE SAGS - Simulator for grounding analysis
-___________________________________________
+_____________________________________________
   I worked with improvement and support. I developed a new QT4 GUI and I trained new users.
   
   During this project, I learned many concepts about distributed systems (MPI), openMP, pthreads, QT multi-thread environment, networking programming, C++.
