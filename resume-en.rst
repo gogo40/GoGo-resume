@@ -15,7 +15,7 @@ I have a Computer engineering's bachelor degree and a Electric engineering's mas
 
 Since 2008, I'm working with project and development of GUI's, distributed programming in C++, algorithms project and compiler development. And, since 2013, I work with Python.
 
-Also, I work with commercial systems development using PHP and javascript, since 2011.  
+Currently, I'm trying to get a phd degree in Computational Geostatistics (Natural Reservoir modelling using computers). In my research project, I'm developing a new cloud to simulate natural reservoir using state-of-art simulation algorithms.
 
 Challenges are my fun, therefore I constantly participate of open-source projects and online contests like TopCoder, HackerRank, Google Code Jam, Challenge 24, etc.
 
@@ -32,13 +32,24 @@ Researcher at LPM/UFRGS, *2013* - today
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-AR2GEMS
-_______
-  Plugins development and improvements in the SGeMS software (`sgems`_). This project is financed by PETROBRAS.
+AR2GEMS and Distributed algorithms for Geostatistics simulation
+_______________________________________________________________
+
+  Currently, I'm developing a new version of Ar2GeMS with support to Distributed Computing. In this project, I'm developing new features in the system like:
   
-  The system is developed in C++ and python.
-
-
+  * python plugins support;
+  * multi-task support;
+  * no-sql and traditional database support;
+  * Cloud support. 
+  
+  Also, I'm adding new state-of-art algorithms inside the AR2GEMS infrastructure. This project was sponsored by Petrobrás.
+  
+  My advisors in this project are:
+  
+  * Prof. Dr. João Felipe C. Costa <costajfelipe@gmail.com> (Professor at UFRGS)
+  * Alexandre Boucher <aboucher@ar2tech.com> (Former Lecturer at Stanford and currently Ar2tech founder)
+  
+  Ar2GeMS is based on (`sgems`_) (Stanford Geostatistics Modelling System).
 
 Software engineer, X-Manager, *2012* - today
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -95,12 +106,6 @@ ________________________________________________________________________________
   The Clever is developed by a member of PHP "core" team, Felipe Pena. 
   
   
-
-
-gogoSokoban - A educational project, where I work with a AI development to solve sokobans
-_________________________________________________________________________________________
-  In this project, I developed a system using C++ that solve sokobans with A* and heuristics to find the best solutions.
-
 
 
 Events and contests
