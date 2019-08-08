@@ -14,13 +14,33 @@ Since 2008, I'm working with project and development of GUIs using Qt, distribut
 
 _______
 
+Education
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PhD in Computational Geostatistics at the Universidade Federal do Rio Grande do Sul, *2016* - 2019 (expected)
+--------------------------------------------------------------------------------------------------------------
+
+My PhD research project is focused on machine learning applied to computational geostatistics. The main goal is adapt the machine learning tools to create a new generation of geostatistic algorithms and workflows. Thesis defense is scheduled to September/2019.
+
+
+Electric Engineering's Master degree in Computational Eletromagnetism at Universidade Federal do Pará, *2011* - 2012
+--------------------------------------------------------------------------------------------------------------------
+
+I created a *meshless* simulator for computational eletromagnetism based on RPIM (Radial Point Interpolation Method).
+
+
+Computer Engineering bachelor at the Universidade Federal do Pará, *2006* - 2011
+--------------------------------------------------------------------------------
+
+During my undergraduation, I acquired skils at distributed systems, algorithm development and C++. Also,  I participated in three International Collegiate Programming Contest national finals (south america/Brazil).
+
 
 Experiences
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Computer scientist at Advanced Resources and Risk Technology, LLC (AR2Tech) , *2017* - today 
-----------------------------
+--------------------------------------------------------------------------------------------
 
 
 AR2GAS and Distributed algorithms for Geostatistics simulation
@@ -30,13 +50,13 @@ _______________________________________________________________
   - Support and development of customized algorithms for clients. 
 
 
-Researcher and PhD student, LPM-UFRGS (Laboratório de Planejamento e pesquisa Mineiro/UFRGS, *2013* - *2017*
------------------------------------------
+Researcher and PhD student, LPM-UFRGS (Laboratório de Planejamento e pesquisa Mineiro)/UFRGS, *2013* - *2017*
+-------------------------------------------------------------------------------------------------------------
   I worked with development of geostatistical algorithms, AR2GEMS plugins developments and I did contributions to  AR2GEMS project, like python plugins support, multi-thread support.    
 
 
 Researcher and MsC student, LANE (Laboratório de Análise Numérica em Eletromagnetismo)/UFPA, *2008* - *2012*
------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
 
 LANE SAGS - Simulator for grounding analysis
 _____________________________________________
@@ -56,9 +76,12 @@ __________________________________________________________________________
 Software projects
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+Open source
+------------
 
 Clever Language - Implementation of multi-thread support and others features (FFI, ncurses, etc.) 
 _________________________________________________________________________________________________
+
   I designed and developed the Clever parallellism model. Furthermore, I work in improvement of  many features in the language.
   
   The Clever is developed by a member of PHP "core" team, Felipe Pena. 
@@ -69,6 +92,8 @@ ________________________________________________________________________________
 Events and contests
 ~~~~~~~~~~~~~~~~~~~~
 
+Contests
+---------
 
 South America/Brazil finalist at ACM ICPC  2008, 2009 and 2010 
 ______________________________________________________________
@@ -76,7 +101,7 @@ ______________________________________________________________
   
 
 Golden medal at SBM/MEC OBMEP 2005 (Brazilian Public School Math Olympiads 2005 promoted by Brazilian Math Society and Education Ministery)
-___________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________
   During my high school, I gained a golden medal at OBMEP 2005.
 
 
@@ -90,8 +115,10 @@ Languages
 Skills
 ~~~~~~~~~
 
+
 Software Development
-____________________
+--------------------
+
 - Advanced level in Python development 
 - Expert level in C/C++ development 
 - Expert level in parallellism and concurrency (threads, mutexes, semaphores, condition variable, etc.)
@@ -124,13 +151,13 @@ Technical Publications
 Projects and links
 ~~~~~~~~~~~~~~~~~~
 - `github`_ : My personal profile at GitHub
-- This `Currículo`_: `Repositório`_ 
-- `Currículo Linked-in`_: Complete CV
+- This `resume`_: `resume`_ 
+- `Resume Linked-in`_: Complete CV
 
 .. _`github`: https://github.com/gogo40
 .. _`Currículo`: https://github.com/gogo40/resume/blob/master/resume-pt_br.rst
-.. _`Repositório`: https://github.com/gogo40/resume
-.. _`Currículo Linked-in`: http://www.linkedin.com/profile/view?id=91897412
+.. _`resume`: https://github.com/gogo40/resume
+.. _`Resume Linked-in`: http://www.linkedin.com/profile/view?id=91897412
 .. _`Sistema de gestão hospitalar GeHos`: periclesmachado.com/cliente/fernando_marques/gehos1.0
 .. _`ssg_xplane_plugins`: https://github.com/gogo40/ssg_xplane_plugins
 .. _`brspoj`: http://br.spoj.pl/users/gogo40
