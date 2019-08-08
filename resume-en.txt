@@ -84,9 +84,6 @@ ________________________________________________________________________________
 
   I designed and developed the Clever parallellism model. Furthermore, I work in improvement of  many features in the language.
   
-  The Clever is developed by a member of PHP "core" team, Felipe Pena. 
-  
-  
 
 
 Events and contests
@@ -127,12 +124,7 @@ Software Development
 - Tools: Git, QMake, CMake, MySQL, Bison, Flex, MPI, Pthread, GRPC etc.
 - Platforms: Linux (Debian, Ubuntu),  Windows (XP, 7).
 - Libraries: GRPC, Qt, Eigen, VTK, pybind11, GMP etc.
-- Medium level in physics simulators development
 
-
-Major Influences
-~~~~~~~~~~~~~~~~
-Andrew S. Tanenbaum, Djisktra, Donald Knuth, Richard Bellman, Bjarne Stroustrup
 
 
 Technical Publications
