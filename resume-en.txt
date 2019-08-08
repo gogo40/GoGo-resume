@@ -32,7 +32,7 @@ I created a *meshless* simulator for computational eletromagnetism based on RPIM
 Computer Engineering bachelor at the Universidade Federal do Pará, *2006* - 2011
 --------------------------------------------------------------------------------
 
-During my undergraduation, I acquired skils at distributed systems, algorithm development and C++. Also,  I participated in three International Collegiate Programming Contest national finals (south america/Brazil).
+I participated in three International Collegiate Programming Contest national finals (south america/Brazil).
 
 
 Experiences
@@ -45,7 +45,6 @@ Computer scientist at Advanced Resources and Risk Technology, LLC (AR2Tech) , *2
 
 AR2GAS and Distributed algorithms for Geostatistics simulation
 _______________________________________________________________
-
   - Development of a novel geostatical software with support for distributed and cloud computing. 
   - Support and development of customized algorithms for clients. 
 
@@ -60,49 +59,37 @@ Researcher and MsC student, LANE (Laboratório de Análise Numérica em Eletroma
 
 LANE SAGS - Simulator for grounding analysis
 _____________________________________________
-  I worked with improvement and support. I developed a new QT4 GUI and I trained new users.
+  I worked with multi-threading improvement (MPI, openMP and pthreads) and support. I developed a new QT4 GUI and I trained new users.   
   
-  During this project, I learned many concepts about distributed systems (MPI), openMP, pthreads, QT multi-thread environment, networking programming, C++.
-  
-
 
 LANE MAXWELL - *meshless* simulator for electro-magnetics wave propagation
 __________________________________________________________________________
   During my master degree, I worked with electro-magnetics wave propagation, using a *meshless* maxwell equation discretization (RPIM - Radial Point Interpolation Method)
   
-  This system was developed in C++ and have a QT4 GUI. Currently, this software is a open source project called GoGoRPIM (`lanemaxwell`_).
 
-
-Software projects
+Open Source projects
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-Open source
-------------
+Clever Language - Implementation of multi-thread support and others features (FFI, ncurses, etc.)
+------------------------------------------------------------------------------------------------- 
 
-Clever Language - Implementation of multi-thread support and others features (FFI, ncurses, etc.) 
-_________________________________________________________________________________________________
-
-  I designed and developed the Clever parallellism model. Furthermore, I work in improvement of  many features in the language.
-  
+  I designed and developed the Clever parallellism model. Furthermore, I work in improvement of  many features in the language.    
 
 
 Events and contests
 ~~~~~~~~~~~~~~~~~~~~
 
-Contests
----------
 
 South America/Brazil finalist at ACM ICPC  2008, 2009 and 2010 
-______________________________________________________________
+-------------------------------------------------------------------------------------------------
   With the GoGo40 team, I attended three consecutives ACM ICPC south america finals.
   
 
 Golden medal at SBM/MEC OBMEP 2005 (Brazilian Public School Math Olympiads 2005 promoted by Brazilian Math Society and Education Ministery)
-____________________________________________________________________________________________________________________________________________
+-------------------------------------------------------------------------------------------------------------------------------------------
   During my high school, I gained a golden medal at OBMEP 2005.
 
 
-===============
 
 Languages
 ~~~~~~~~~
@@ -112,10 +99,6 @@ Languages
 Skills
 ~~~~~~~~~
 
-
-Software Development
---------------------
-
 - Advanced level in Python development 
 - Expert level in C/C++ development 
 - Expert level in parallellism and concurrency (threads, mutexes, semaphores, condition variable, etc.)
@@ -124,7 +107,6 @@ Software Development
 - Tools: Git, QMake, CMake, MySQL, Bison, Flex, MPI, Pthread, GRPC etc.
 - Platforms: Linux (Debian, Ubuntu),  Windows (XP, 7).
 - Libraries: GRPC, Qt, Eigen, VTK, pybind11, GMP etc.
-
 
 
 Technical Publications

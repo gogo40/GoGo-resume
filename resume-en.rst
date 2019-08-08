@@ -67,11 +67,11 @@ __________________________________________________________________________
   During my master degree, I worked with electro-magnetics wave propagation, using a *meshless* maxwell equation discretization (RPIM - Radial Point Interpolation Method)
   
 
-OPen Source projects
+Open Source projects
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-Clever Language - Implementation of multi-thread support and others features (FFI, ncurses, etc.) 
-_________________________________________________________________________________________________
+Clever Language - Implementation of multi-thread support and others features (FFI, ncurses, etc.)
+------------------------------------------------------------------------------------------------- 
 
   I designed and developed the Clever parallellism model. Furthermore, I work in improvement of  many features in the language.    
 
@@ -81,12 +81,12 @@ Events and contests
 
 
 South America/Brazil finalist at ACM ICPC  2008, 2009 and 2010 
-______________________________________________________________
+-------------------------------------------------------------------------------------------------
   With the GoGo40 team, I attended three consecutives ACM ICPC south america finals.
   
 
 Golden medal at SBM/MEC OBMEP 2005 (Brazilian Public School Math Olympiads 2005 promoted by Brazilian Math Society and Education Ministery)
-_______________________________________________________________________________________________________________________________________
+-------------------------------------------------------------------------------------------------------------------------------------------
   During my high school, I gained a golden medal at OBMEP 2005.
 
 
