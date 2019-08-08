@@ -20,7 +20,7 @@ Education
 PhD in Computational Geostatistics at the Universidade Federal do Rio Grande do Sul, *2016* - 2019 (expected)
 --------------------------------------------------------------------------------------------------------------
 
-My PhD research project is focused on machine learning applied to computational geostatistics. The main goal is adapt the machine learning tools to create a new generation of geostatistic algorithms and workflows. Thesis defense is scheduled to September/2019.
+My PhD research project is focused on machine learning applied to computational geostatistics. The main goal is adapt the machine learning tools to create a new generation of geostatistic algorithms and workflows. Thesis defense is planned to September/2019.
 
 
 Electric Engineering's Master degree in Computational Eletromagnetism at Universidade Federal do Pará, *2011* - 2012
