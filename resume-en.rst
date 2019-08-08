@@ -107,7 +107,6 @@ Skills
 - Tools: Git, QMake, CMake, MySQL, Bison, Flex, MPI, Pthread, GRPC etc.
 - Platforms: Linux (Debian, Ubuntu),  Windows (XP, 7).
 - Libraries: GRPC, Qt, Eigen, VTK, pybind11, GMP etc.
-- Medium level in physics simulators development
 
 
 Technical Publications
