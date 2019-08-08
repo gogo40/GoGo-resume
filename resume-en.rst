@@ -130,10 +130,6 @@ Software Development
 - Medium level in physics simulators development
 
 
-Major Influences
-~~~~~~~~~~~~~~~~
-Andrew S. Tanenbaum, Djisktra, Donald Knuth, Richard Bellman, Bjarne Stroustrup
-
 
 Technical Publications
 ~~~~~~~~~~~~~~~~~~~~~~
