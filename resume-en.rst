@@ -9,13 +9,13 @@ Péricles Lopes Machado
 About
 ~~~~~
 
-My formation is in distributed systems, geostatistics and physics simulation. Furthermore, during my undergraduation I participated of three IBM/ACM ICPC national finals (south america/Brazil).
+I have expertise in computer distributed systems (C++ and Python), geostatistics and physics simulation. 
 
-I have a Computer engineering's bachelor degree and a Electric engineering's master degree from UFPA (Universidade Federal do Pará - Federal University of Pará).
+I have a Computer engineering's bachelor degree and a Electric engineering's master degree from UFPA (Universidade Federal do Pará - Federal University of Pará).  I am currently concluding my phd degree in Computational Geostatistics at the Universidade Federal do Rio Grande do Sul.   I participated in three International Collegiate Programming Contest national finals (south america/Brazil).
 
 Since 2008, I'm working with project and development of GUIs using Qt, distributed programming in C++, algorithm design and compiler development. And, since 2013, I work with Python.
 
-Currently, I'm concluding a phd degree in Computational Geostatistics (Natural Reservoir modelling using computers) at UFRGS (Universidade Federal do Rio Grande do Sul) and I am computer scientist at Ar2Tech.
+Currently I am computer scientist with Advanced Resources and Risk Technology, LLC.
 
 
 _______
@@ -26,16 +26,15 @@ Some relevant experiences
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-Computer scientist at Ar2Tech , *2017* - today 
+Computer scientist at Advanced Resources and Risk Technology, LLC (AR2Tech) , *2017* - today 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 AR2GAS and Distributed algorithms for Geostatistics simulation
 _______________________________________________________________
 
-  Currently, I'm developing AR2GAS at Ar2tech, a new geostatics software with support to Distributed Computing and cloud. 
-  
-  Also, I give support to AR2GEMS and develop customized algorithms on demand. 
+  - Development of a novel geostatical software with support for distributed and cloud computing. 
+  - Support and development of customized algorithms for clients. 
 
 
 Researcher and PhD student, LPM-UFRGS (Laboratório de Planejamento e pesquisa Mineiro/UFRGS, *2013* - *2017*
@@ -92,18 +91,18 @@ ________________________________________________________________________________
 
 Languages
 ~~~~~~~~~
-- Portuguese (*Native language*): understand well, speak well, read well, write well
-- English: understand reasonably, speak reasonably, read well, write reasonably
+- Portuguese (*Native language*)
+- English
 
 Abilities
 ~~~~~~~~~
 
 Software Development
 ____________________
-- Medium level in Python development 
-- Advanced level in C/C++ development 
-- Advanced level in parallellism and concurrency (threads, mutexes, semaphores, condition variable, etc.)
-- Advanced level in distributed systems
+- Advanced level in Python development 
+- Expert level in C/C++ development 
+- Expert level in parallellism and concurrency (threads, mutexes, semaphores, condition variable, etc.)
+- Expert level in distributed systems
 - Programming knowledges in: Python (Medium level), C (Advanced), C++ (Advanced), Javascript (basic level).
 - Tools: Git, QMake, CMake, MySQL, Bison, Flex, MPI, Pthread, GRPC etc.
 - Platforms: Linux (Debian, Ubuntu),  Windows (XP, 7).
