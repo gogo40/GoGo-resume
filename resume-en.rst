@@ -6,28 +6,21 @@ Péricles Lopes Machado
 :Birth date: 02/02/1989
 
 
-About
-~~~~~
+I am computer scientist with Advanced Resources and Risk Technology, LLC with expertise in computer distributed systems (C++ and Python), geostatistics and physics simulation. 
 
-I have expertise in computer distributed systems (C++ and Python), geostatistics and physics simulation. 
-
-I have a Computer engineering's bachelor degree and a Electric engineering's master degree from UFPA (Universidade Federal do Pará - Federal University of Pará).  I am currently concluding my phd degree in Computational Geostatistics at the Universidade Federal do Rio Grande do Sul.   I participated in three International Collegiate Programming Contest national finals (south america/Brazil).
+I have a Computer engineering's bachelor degree and a Electric engineering's master degree from UFPA (Universidade Federal do Pará - Federal University of Pará).  I am currently concluding my PhD degree in Computational Geostatistics at the Universidade Federal do Rio Grande do Sul.   I participated in three International Collegiate Programming Contest national finals (south america/Brazil).
 
 Since 2008, I'm working with project and development of GUIs using Qt, distributed programming in C++, algorithm design and compiler development. And, since 2013, I work with Python.
-
-Currently I am computer scientist with Advanced Resources and Risk Technology, LLC.
-
 
 _______
 
 
-
-Some relevant experiences
+Experiences
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Computer scientist at Advanced Resources and Risk Technology, LLC (AR2Tech) , *2017* - today 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------
 
 
 AR2GAS and Distributed algorithms for Geostatistics simulation
@@ -38,12 +31,12 @@ _______________________________________________________________
 
 
 Researcher and PhD student, LPM-UFRGS (Laboratório de Planejamento e pesquisa Mineiro/UFRGS, *2013* - *2017*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------
   I worked with development of geostatistical algorithms, AR2GEMS plugins developments and I did contributions to  AR2GEMS project, like python plugins support, multi-thread support.    
 
 
 Researcher and MsC student, LANE (Laboratório de Análise Numérica em Eletromagnetismo)/UFPA, *2008* - *2012*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------------------------------
 
 LANE SAGS - Simulator for grounding analysis
 _____________________________________________
@@ -60,7 +53,7 @@ __________________________________________________________________________
   This system was developed in C++ and have a QT4 GUI. Currently, this software is a open source project called GoGoRPIM (`lanemaxwell`_).
 
 
-Open Software Experience
+Software projects
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 
@@ -94,7 +87,7 @@ Languages
 - Portuguese (*Native language*)
 - English
 
-Abilities
+Skills
 ~~~~~~~~~
 
 Software Development
